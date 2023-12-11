@@ -27,7 +27,7 @@ This is the place where I archive my scripts and break things :rofl:
 - 🥈 I often dive into **user psychology** like a PM, which is a fascinating process of exploring root causes.
 - 🥉 I will definitely obtain a graduate degree in data science in the future, but not my immediate priority at the moment.
 - 🚗 In the past 1.5 years, I embarked on a cross-country road trip to ponder over how to live my life instead of mindlessly working(❎a dead-alive person❎), back here with a tranquil and steady core.
-- 📫 Reach me easily: Mailbox - [dingbangchu@gmail.com](dingbangchu@gmail.com) Tel - `+86 13339947334` Skype - `host.bonneting`
+- 📫 Reach me easily: Mailbox - [dingbangchu@gmail.com](dingbangchu@gmail.com)  Skype - `host.bonneting`
 
 📕 &nbsp;**Quickview of portfolio**
 - [Personal comprehensive mining of 18 million sales data to get info amap with insights](https://github.com/DingBangBang/Portfolio1_TMall_sales_EDA)
@@ -39,11 +39,17 @@ This is the place where I archive my scripts and break things :rofl:
 <sub># I'm consummating them gradually.</sub>
 
 📊 &nbsp;**This week I spent my time on**
+<p align="left">
+<a href="" target="blank"><img align="center" src="/pro_bar.png" alt="gautamkrishnar" height="170" width="500" /></a>
+<!--![xxx](/pro_bar.png)-->
+<!--
 - python: 60%
 - R: 20%
 - SQL: 10%
 - SparkSQL: 5%
 - HiveSQL: 5%
+-->
+
 
 🏠 &nbsp;**Toolkit & Environment**
 - Anaconda
