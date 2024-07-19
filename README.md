@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm Bonnie Ting, a self-taught Data Analyst🧙‍♀️ from 🚩China. I archive my scripts, document projects and break things here :rofl:
+I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from 🚩China. I archive my scripts, document projects and break things here :rofl:
 
 <!--
 ## 📚 Table of Contents
@@ -49,7 +49,6 @@ I'm Bonnie Ting, a self-taught Data Analyst🧙‍♀️ from 🚩China. I archi
 - [Series analysis compassing customer transactions on the platform](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio4_customer_analysis_BA)
 - [Solo project of sentiment analysis for dissertation - my first NLP](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio5_comments_NLP)
 
-<sub># I'm consummating them gradually.</sub>
 
 
 ## 🏠 &nbsp;**Toolkit & Environment**
