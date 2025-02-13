@@ -54,37 +54,38 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from 🚩China. 
 ## 🏠 &nbsp;**Toolkit & Environment**
 #### Acquisition
 ```
-- MySQL -> TIDB
-- SparkSQL & HiveSQL
+- MySQL -> TIDB -> SparkSQL/PrestoSQL/HiveSQL/DuneSQL
 ```
 #### Processing & Analysis
 ```
-- Anaconda
 - Jupyter Notebook -> JupyterLab -> JupyterLab Desktop
-- python --version==3.11
-- VSC -> Pycharm
-- Navicat -> DataGrip
-- DataSpell
+- Excel -> Google Sheets -> Lark Spreadsheet
 - R Studio -> R Studio Cloud
-- Excel & Google Sheets
+- Navicat -> DataGrip
+- VSC -> Pycharm
+- python --version==3.11
+- Anaconda
+- DataSpell
 ```
 #### Visualization
 ```
-- Grafana & Looker Studio
-- Tableau & Power BI
+- Tableau & Power BI -> Grafana & Looker Studio -> Datawind & Dune
 ```
 #### Teamwork
 ```
-- Windows & Mac
-- Git
-- Jira
-- cmd
+- Mac & Windows
 - GitHub, GitLab
-- wakatime
+- Jira
+- Git
+- Bydata
+- Cmd
+- Wakatime
+- Wiki & Lark / Notion
 ```
 #### Efficiency
 ```
-- ChatGPT 4.0
+- Deepseek
+- ChatGPT
 - Airflow
 ```
 
