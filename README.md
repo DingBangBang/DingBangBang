@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from 🚩China. I archive my scripts, document projects and break things here :rofl:
+I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from China🇨🇳. I archive my scripts, projects and break things here :rofl:
 
 <!--
 ## 📚 Table of Contents
@@ -28,19 +28,19 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from 🚩China. 
 -->
 
 ## 🚴‍♀️ &nbsp;**Know me in 30 secs**
-- 🔭 &nbsp;Immersed in data field with 3 years of professional experience at three Fortune 500 companies.📅
-- 👨‍💻 &nbsp;Currently learning R, BigData toolbox and ML fundamentals 📖
-- 💬 &nbsp;Skillset: Python, SQL, advanced Excel, preliminary R, Visualization, analysis methodology <sub>especially in UserBehavior, OnlineRetail, CryptoExchange</sub> 😎
+- 🔭 &nbsp;Immersed in data field with 5 years of professional experience at 3 Fortune Global 500 companies and the top 2 global crypto exchanges📅
+- 👨‍💻 &nbsp;Currently learning Machine Learning and Data Science Master and Solidity/Go grammer📖
+- 💬 &nbsp;Skillset: Python, SQL, Regex, JavaScript, R, Visualization, analysis methodology <sub>especially in UserBehavior, OnlineRetail, CryptoExchange</sub> 😎
 - 🌱 &nbsp;Gonna take on the Digital-Nomad lifestyle based on efficient remote work and excellent energy management :wink:
 - ⚡ &nbsp;Fun fact: In the transition to a Data Scientist and I :heart: :cat:s, X-sports and travel <sub>MBTI-ENTP</sub> ⛷️
-- 🚗 &nbsp;My nuts point: Embarked on a cross-country road trip to ponder over how to live my life instead of mindlessly working(❎a dead-alive person❎), back here with a tranquil and steady core 🥰
+- 🚗 &nbsp;My nuts point: Embarked on an around-the-world adventures to ponder over how to live my life instead of mindlessly working(❎a dead-alive person❎), back here with a tranquil and steady core 🥰
 
 ## ❓ &nbsp;**I came into data field for**
-- 🥇 Answer how and why, take action and build influence, satisfying me a lot. And dealing with diverse data absorbs me so much.
-- 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causes of human behavior.
+- 🥇 Answer how and why, take action, build influence and drive business growth by proposing data-backed recommendations, satisfying me a lot. And dealing with diverse data absorbs me so much.
+- 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causes of user behavior.
 - 🥉 Enjoy immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>(truly enthusiastic about automating workflows)</sub>
 - 🙋‍♀️ Highly motivated **self-starter** when getting alone with data and comfortable with autonomy and believes in **lifelong learning**.
-- ⚠️ Will definitely obtain a graduate degree in data science in the future, but not my immediate priority at the moment.
+- ⚠️ While pursuing my Master’s in Data Science, I will embrace the next two years as an exploratory journey—balancing rigorous academics with hands-on work experience .
 
 ## 📕 &nbsp;**Quickview of my [portfolio](https://github.com/DingBangBang/Portfolio)**
 - [Personal comprehensive mining of 18 million sales data with insights - BA](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio1_sales_EDA)
@@ -54,7 +54,7 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from 🚩China. 
 ## 🏠 &nbsp;**Toolkit & Environment**
 #### Acquisition
 ```
-- MySQL -> TIDB -> SparkSQL/PrestoSQL/HiveSQL/DuneSQL
+- MySQL -> TIDB -> SparkSQL/PrestoSQL -> HiveSQL/Bydata/DuneSQL/GraghSQL
 ```
 #### Processing & Analysis
 ```
