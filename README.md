@@ -75,12 +75,12 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from China🇨�
 ```
 - Mac & Windows
 - GitHub, GitLab
-- Jira
 - Git
+- Jira
 - Bydata
 - Cmd
 - Wakatime
-- Wiki & Lark / Notion
+- Wiki / Lark / Notion
 ```
 #### Efficiency
 ```
@@ -91,19 +91,9 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from China🇨�
 
 
 ## 🏅 &nbsp;**Certificate**
-- [Google Data Analysis Certificate](https://www.credly.com/badges/9aab321d-38f0-48e1-9764-e24cba0ea88e/public_url)
-- Google Advanced Data Analysis Certificate<sub>(I'm working on it, almost finished.)</sub>
-- Google Business Intelligence Professional Certificate<sub>(I'm still working on it.)</sub>
+- Google Advanced Data Analysis Certificate
+- Google Business Intelligence Professional Certificate
 
-
-## 📊 &nbsp;**This week I spent my time on**
-<p align="left">
-<a href="" target="blank"><img align="center" src="/pro_bar.png" alt="gautamkrishnar" height="170" width="500" /></a>
-<!--![xxx](/pro_bar.png)-->
 
 ## 🔗 &nbsp;**Connect with me**
-📫 Reach me easily: Mailbox - [dingbangchu@gmail.com](dingbangchu@gmail.com)  Skype - `host.bonneting`
-<p align="left">
-<a href="http://www.linkedin.com/in/bonnie-ting333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DingBangBang" height="30" width="40" /></a>
-<a href="https://www.instagram.com/host.bonnieting/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DingBangBang" height="30" width="40" /></a>
-<a href="https://join.skype.com/invite/xkP6Sp1N9F3z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="DingBangBang" height="30" width="40" /></a>
+📫 Reach me easily: Mailbox - [dingbangchu@gmail.com](dingbangchu@gmail.com) ; WhatsApp - 971 5561 06241
