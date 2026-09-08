@@ -91,8 +91,11 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from China🇨�
 
 
 ## 🏅 &nbsp;**Certificate**
+- Google Data Analysis Certificate
 - Google Advanced Data Analysis Certificate
 - Google Business Intelligence Professional Certificate
+- Google Data Science Certificate
+- Google Advanced Science Certificate
 
 
 ## 🔗 &nbsp;**Connect with me**
