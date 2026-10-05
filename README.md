@@ -114,4 +114,5 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 
 ## Personal Page
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BonnieBennett-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonniebennett333/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-green?logo=adobeacrobatreader&logoColor=white)](https://你的简历链接)
+[![Resume](https://img.shields.io/badge/Resume-PDF-green?logo=adobeacrobatreader&logoColor=white)]([https://你的简历链接](https://github.com/DingBangBang/DingBangBang/blob/90cf3eadb842c2fc9f9ecf33ef10b596a1a6b5a2/BonnieBennett_SeniorDataAnalyst_Resume_OnePage.pdf))
+
