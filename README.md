@@ -30,7 +30,7 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 ## 🚴‍♀️ &nbsp;**Know me in 30 secs**
 - 🔭 &nbsp;Immersed in data field with over 5 years of professional experience at top 2 crypto centralized exchanges and 3 companies of the Fortune Global 500. 📅
 - 👨‍💻 &nbsp;Currently learning Machine Learning and Data Science Master and Solidity/Go grammer📖
-- 💬 &nbsp;Skillset: Python, SQL, Regex, JavaScript, R, Visualization, analysis methodology <sub>especially in UserBehavior, OnlineRetail, CryptoExchange</sub> 😎
+- 💬 &nbsp;Skillset: Python, SQL, Regex, JavaScript, R, Visualization, Tokenomics, analysis methodology <sub>especially in UserBehavior, OnlineRetail, CryptoExchange</sub> 😎
 - 🌱 &nbsp;Gonna take on the Digital-Nomad lifestyle based on efficient remote work and excellent energy management :wink:
 - ⚡ &nbsp;Fun fact: In the transition to a Data Scientist and I :heart: :cat:s, X-sports and travel <sub>MBTI-ENTP</sub> ⛷️
 - 🚗 &nbsp;My nuts point: Embarked on an around-the-world adventures to ponder over how to live my life instead of mindlessly working(❎a dead-alive person❎), back here with a tranquil and steady core 🥰
@@ -51,6 +51,9 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 
 
 
+
+<details>
+  <summary>点击展开查看更多</summary>
 ## 🏠 &nbsp;**Toolkit & Environment**
 #### Acquisition
 ```
@@ -87,8 +90,9 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 - Deepseek
 - ChatGPT
 - Airflow
+- AI Agent(Claude/Codex/Copilot/Cline/Cursor/LangChain/LangGragh)
 ```
-
+</details>
 
 ## 🏅 &nbsp;**Certificate**
 - Google Data Analysis Certificate
@@ -100,3 +104,11 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 
 ## 🔗 &nbsp;**Connect with me**
 📫 Reach me easily: Mailbox - [dingbangchu@gmail.com](dingbangchu@gmail.com) ; WhatsApp - 971 5561 06241
+
+## Personal Page
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-你的名字-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonniebennett333/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-green?logo=adobeacrobatreader&logoColor=white)](https://你的简历链接)
+
+
+https://www.linkedin.com/in/bonniebennett333
+www.linkedin.com/in/bonniebennett333
