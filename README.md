@@ -54,7 +54,7 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 ## 🏠 &nbsp;**Toolkit & Environment**
 
 <details>
-<summary>点击展开查看更多</summary>
+<summary>Click to expand</summary>
 
 #### Acquisition
 ```
