@@ -111,7 +111,7 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 
 
 ## 🔗 &nbsp;**Connect with me**
-📫 Reach me easily: Mailbox - [dingbangchu@gmail.com](dingbangchu@gmail.com) ; WhatsApp - 971 5561 06241
+📫 Reach me easily: Mailbox - [dingbangchu@gmail.com](dingbangchu@gmail.com) ; WhatsApp - +(971)-55-610-6241
 
 ## Personal Page
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BonnieBennett-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonniebennett333/)
