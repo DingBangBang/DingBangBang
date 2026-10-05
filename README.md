@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from China🇨🇳. I archive my scripts, projects and break things here :rofl:
+I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive my scripts, projects and break things here :rofl:
 
 <!--
 ## 📚 Table of Contents
@@ -28,7 +28,7 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from China🇨�
 -->
 
 ## 🚴‍♀️ &nbsp;**Know me in 30 secs**
-- 🔭 &nbsp;Immersed in data field with 5 years of professional experience at 3 Fortune Global 500 companies and the top 2 global crypto exchanges📅
+- 🔭 &nbsp;Immersed in data field with over 5 years of professional experience at top 2 crypto centralized exchanges and 3 companies of the Fortune Global 500. 📅
 - 👨‍💻 &nbsp;Currently learning Machine Learning and Data Science Master and Solidity/Go grammer📖
 - 💬 &nbsp;Skillset: Python, SQL, Regex, JavaScript, R, Visualization, analysis methodology <sub>especially in UserBehavior, OnlineRetail, CryptoExchange</sub> 😎
 - 🌱 &nbsp;Gonna take on the Digital-Nomad lifestyle based on efficient remote work and excellent energy management :wink:
