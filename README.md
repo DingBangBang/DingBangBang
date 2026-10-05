@@ -43,11 +43,11 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 - ⚠️ While pursuing my Master’s in Data Science, I will embrace the next two years as an exploratory journey—balancing rigorous academics with hands-on work experience .
 
 ## 📕 &nbsp;**Quickview of my [portfolio](https://github.com/DingBangBang/Portfolio)**
-- [On-chain Whale Behaviour Alert System](https://github.com/DingBangBang/whale-alert-system/blob/a74ff9cc53455bd1154f9407f9af24f846c695c9/README.md)
+- [On-chain Whale Behaviour Alert System with Insights and Data-Driven Execution - On-chain ETL](https://github.com/DingBangBang/whale-alert-system/blob/a74ff9cc53455bd1154f9407f9af24f846c695c9/README.md)
 - [Personal comprehensive mining of 18 million sales data with insights - BA](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio1_sales_EDA)
 - [Stand-alone process to accomplish a complex dashboard of Key Accounts](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio2_ka_dashboard_VLZ)
 - [Stand-alone automated periodic report in HTML, email and Excel - VLZ](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio3_automated_periodic_reports_BA)
-- [Series analysis compassing customer transactions on the platform](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio4_customer_analysis_BA)
+- [Series analysis compassing customer transactions on the platform - ETL](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio4_customer_analysis_BA)
 - [Solo project of sentiment analysis for dissertation - my first NLP](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio5_comments_NLP)
 
 
