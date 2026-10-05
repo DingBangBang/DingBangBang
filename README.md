@@ -51,14 +51,16 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 
 
 
+## 🏠 &nbsp;**Toolkit & Environment**
 
 <details>
-  <summary>点击展开查看更多</summary>
-## 🏠 &nbsp;**Toolkit & Environment**
+<summary>点击展开查看更多</summary>
+
 #### Acquisition
 ```
 - MySQL -> TIDB -> SparkSQL/PrestoSQL -> HiveSQL/Bydata/DuneSQL/GraghSQL
 ```
+
 #### Processing & Analysis
 ```
 - Jupyter Notebook -> JupyterLab -> JupyterLab Desktop
@@ -70,10 +72,12 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 - Anaconda
 - DataSpell
 ```
+
 #### Visualization
 ```
 - Tableau & Power BI -> Grafana & Looker Studio -> Datawind & Dune
 ```
+
 #### Teamwork
 ```
 - Mac & Windows
@@ -85,6 +89,7 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 - Wakatime
 - Wiki / Lark / Notion
 ```
+
 #### Efficiency
 ```
 - Deepseek
@@ -92,7 +97,9 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 - Airflow
 - AI Agent(Claude/Codex/Copilot/Cline/Cursor/LangChain/LangGragh)
 ```
+
 </details>
+
 
 ## 🏅 &nbsp;**Certificate**
 - Google Data Analysis Certificate
@@ -106,9 +113,5 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 📫 Reach me easily: Mailbox - [dingbangchu@gmail.com](dingbangchu@gmail.com) ; WhatsApp - 971 5561 06241
 
 ## Personal Page
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-你的名字-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonniebennett333/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BonnieBennett-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonniebennett333/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-green?logo=adobeacrobatreader&logoColor=white)](https://你的简历链接)
-
-
-https://www.linkedin.com/in/bonniebennett333
-www.linkedin.com/in/bonniebennett333
