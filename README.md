@@ -50,10 +50,10 @@ I'm Bonnie Ting, a Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive
 - ⚠️ While pursuing my Master’s in Data Science, I will embrace the next two years as an exploratory journey—balancing rigorous academics with hands-on work experience .
 
 ## 📕 &nbsp;**Quickview of my [portfolio](https://dingbangbang.github.io/)**
-- [On-Chain Whale Behavior Monitoring & Flow Analytics](https://github.com/DingBangBang/whale-alert-system)
-- [Crypto User Behavioral Clustering & Churn Prediction](https://github.com/DingBangBang/crypto_churn_prediction_project)
-- [Automated Market Reporting & Competitive Attribution Engine](https://github.com/DingBangBang/report_competitor_monitor)
-- [Real-Time Exchange Market Share Intelligence](https://github.com/DingBangBang/dune-dashboard)
+- [On-Chain Whale Behavior Monitoring & Flow Analytics - Onchain](https://github.com/DingBangBang/whale-alert-system)
+- [Crypto User Behavioral Clustering & Churn Prediction - ML/DS](https://github.com/DingBangBang/crypto_churn_prediction_project)
+- [Automated Market Reporting & Competitive Attribution Engine - BI&LLM](https://github.com/DingBangBang/report_competitor_monitor)
+- [Real-Time Exchange Market Share Intelligence - ETL](https://github.com/DingBangBang/dune-dashboard)
 
 - [Personal comprehensive mining of 18 million sales data with insights - BA](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio1_sales_EDA)
 - [Stand-alone process to accomplish a complex dashboard of Key Accounts - VIZ](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio2_ka_dashboard_VLZ)
