@@ -48,8 +48,6 @@ I'm Bonnie Ting, a Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive
 - [Automated Market Reporting & Competitive Attribution Engine](https://github.com/DingBangBang/report_competitor_monitor)
 - [Real-Time Exchange Market Share Intelligence](https://github.com/DingBangBang/dune-dashboard)
 
-
-- [On-chain Whale Behaviour Alert System with Insights and Data-Driven Execution - On-chain ETL](https://github.com/DingBangBang/whale-alert-system/blob/a74ff9cc53455bd1154f9407f9af24f846c695c9/README.md)
 - [Personal comprehensive mining of 18 million sales data with insights - BA](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio1_sales_EDA)
 - [Stand-alone process to accomplish a complex dashboard of Key Accounts - VIZ](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio2_ka_dashboard_VLZ)
 - [Stand-alone automated periodic report in HTML, email and Excel - VLZ](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio3_automated_periodic_reports_BA)
