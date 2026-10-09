@@ -1,0 +1,41 @@
+name: Update Icon Marquee
+
+# Regenerates the infinite-scrolling technology icon band (assets/icon-marquee.svg).
+# The band is pure CSS @keyframes baked into an SVG image, so it animates inside README
+# <img> tags. Only runs when the generator changes or on demand (the stack is static).
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/generate_icon_marquee.py
+      - .github/workflows/icon-marquee.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate assets/icon-marquee.svg
+        run: python scripts/generate_icon_marquee.py --out assets/icon-marquee.svg
+
+      - name: Commit updated marquee
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/icon-marquee.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update icon marquee"
+          git push

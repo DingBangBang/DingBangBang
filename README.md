@@ -65,6 +65,11 @@ I'm Bonnie Ting, a Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive
 
 ## 🏠 &nbsp;**Toolkit & Environment**
 
+<!-- Infinite icon marquee (pure CSS @keyframes inside the SVG image) -->
+<div align="center">
+  <img alt="My technology stack" src="https://raw.githubusercontent.com/DingBangBang/DingBangBang/main/assets/icon-marquee.svg" />
+</div>
+
 <details>
 <summary>Click to expand</summary>
 
