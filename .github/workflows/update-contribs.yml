@@ -1,0 +1,49 @@
+name: Update Isometric 3D Contribution Art
+
+# Reads my contribution calendar from the GitHub GraphQL API every day and re-renders
+# isometric (3D) SVGs into output/. Approach adapted from colincode0/github-readme --
+# https://github.com/colincode0/github-readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 06:17 UTC (10:17 Asia/Dubai).
+    - cron: "17 6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - generate_contribs.py
+      - .github/workflows/update-contribs.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate isometric SVGs
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          # Optional PAT (classic) with extra scopes for private contributions. Falls back to
+          # the default Actions token, which is enough for public contribution data.
+          GH_README_TOKEN: ${{ secrets.GH_README_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python generate_contribs.py --out output
+
+      - name: Commit updated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/contribs-dark.svg output/contribs-light.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update isometric 3D contribution art"
+          git push

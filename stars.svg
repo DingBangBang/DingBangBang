@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="217" height="30" viewBox="0 0 217 30" role="img" aria-label="tokenomics-research: 1 GitHub stars">
+  <style>
+    .lbl{font:600 12px ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace;fill:#e6edf3;}
+    .cnt{font:600 12px ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace;fill:#e6edf3;font-variant-numeric:tabular-nums;}
+  </style>
+  <rect x="0.5" y="0.5" width="216" height="29" rx="6" fill="#21262d" stroke="#30363d"/>
+  <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z" fill="#e3b341" transform="translate(13 7.0)"/>
+  <text x="35" y="19.08" class="lbl">tokenomics-research</text>
+  <rect x="183.6" y="6.5" width="21.4" height="17" rx="8.5" fill="#30363d"/>
+  <svg x="190.6" y="6.5" width="7.4" height="17"><g><text x="3.7" y="12.58" text-anchor="middle" class="cnt">0</text><text x="3.7" y="32.58" text-anchor="middle" class="cnt">1</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 -20" dur="6.5s" calcMode="spline" keyTimes="0;1" keySplines="0.7 0 0.3 1" repeatCount="1" fill="freeze"/></g></svg>
+</svg>

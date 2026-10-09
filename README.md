@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 I'm Bonnie Ting, a Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive my scripts, projects and break things here :rofl:
 
+<!-- Typewriter terminal (readme-typing-svg) -->
+<div align="center">
+  <a href="https://github.com/DingBangBang">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=620&height=60&lines=Hi%2C+I'm+Bonnie+Ting+%F0%9F%91%8B;Senior+Data+Analyst+%2F+Data+Scientist;I+turn+messy+data+into+decisions;Python+%C2%B7+SQL+%C2%B7+On-chain+Analytics+%C2%B7+ML" />
+  </a>
+</div>
+
 <!--
 ## 📚 Table of Contents
 - [Know me in 30 secs](##Know me in 30 secs)
@@ -113,6 +120,32 @@ I'm Bonnie Ting, a Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive
 - Google Data Science Certificate
 - Google Advanced Data Science Certificate
 
+
+## 📊 &nbsp;**My GitHub in Motion**
+
+<!-- Contribution snake (Platane/snk) — the snake "eats" the cells I contributed on -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DingBangBang/DingBangBang/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DingBangBang/DingBangBang/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/DingBangBang/DingBangBang/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- Isometric 3D contribution graph, refreshed daily from the GraphQL API (colincode0/github-readme) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DingBangBang/DingBangBang/main/output/contribs-dark.svg" />
+    <img alt="Isometric 3D GitHub contribution chart" src="https://raw.githubusercontent.com/DingBangBang/DingBangBang/main/output/contribs-light.svg" />
+  </picture>
+</div>
+
+<!-- Most-starred project with a star count that rolls up like an odometer (nubjs/nub) -->
+<div align="center">
+  <a href="https://github.com/DingBangBang?tab=repositories&sort=stargazers">
+    <img alt="My most-starred project" src="https://raw.githubusercontent.com/DingBangBang/DingBangBang/main/stars.svg" />
+  </a>
+</div>
 
 ## 🔗 &nbsp;**Reach Me Easily**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BonnieBennett-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonniebennett333/)
