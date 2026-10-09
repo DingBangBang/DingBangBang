@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive my scripts, projects and break things here :rofl:
+I'm Bonnie Ting, a Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive my scripts, projects and break things here :rofl:
 
 <!--
 ## 📚 Table of Contents
@@ -43,6 +43,12 @@ I'm Bonnie Ting, a self-taught Senior Data Analyst🧙‍♀️ from Asia🇨�
 - ⚠️ While pursuing my Master’s in Data Science, I will embrace the next two years as an exploratory journey—balancing rigorous academics with hands-on work experience .
 
 ## 📕 &nbsp;**Quickview of my [portfolio](https://github.com/DingBangBang/Portfolio)**
+- [On-Chain Whale Behavior Monitoring & Flow Analytics](https://github.com/DingBangBang/whale-alert-system)
+- [Crypto User Behavioral Clustering & Churn Prediction](https://github.com/DingBangBang/crypto_churn_prediction_project)
+- [Automated Market Reporting & Competitive Attribution Engine](https://github.com/DingBangBang/report_competitor_monitor)
+- [Real-Time Exchange Market Share Intelligence](https://github.com/DingBangBang/dune-dashboard)
+
+
 - [On-chain Whale Behaviour Alert System with Insights and Data-Driven Execution - On-chain ETL](https://github.com/DingBangBang/whale-alert-system/blob/a74ff9cc53455bd1154f9407f9af24f846c695c9/README.md)
 - [Personal comprehensive mining of 18 million sales data with insights - BA](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio1_sales_EDA)
 - [Stand-alone process to accomplish a complex dashboard of Key Accounts - VIZ](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio2_ka_dashboard_VLZ)
