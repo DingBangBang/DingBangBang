@@ -42,7 +42,7 @@ I'm Bonnie Ting, a Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive
 - 🙋‍♀️ Highly motivated **self-starter** when getting alone with data and comfortable with autonomy and believes in **lifelong learning**.
 - ⚠️ While pursuing my Master’s in Data Science, I will embrace the next two years as an exploratory journey—balancing rigorous academics with hands-on work experience .
 
-## 📕 &nbsp;**Quickview of my portfolio**
+## 📕 &nbsp;**Quickview of my [portfolio]**(https://dingbangbang.github.io/)
 - [On-Chain Whale Behavior Monitoring & Flow Analytics](https://github.com/DingBangBang/whale-alert-system)
 - [Crypto User Behavioral Clustering & Churn Prediction](https://github.com/DingBangBang/crypto_churn_prediction_project)
 - [Automated Market Reporting & Competitive Attribution Engine](https://github.com/DingBangBang/report_competitor_monitor)
