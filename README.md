@@ -20,7 +20,7 @@ I'm Bonnie Bennett, a Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I arch
 <!-- Typewriter terminal (readme-typing-svg) -->
 <div align="center">
   <a href="https://github.com/DingBangBang">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=620&height=60&lines=Hi%2C+I'm+Bonnie+Ting+%F0%9F%91%8B;Senior+Data+Analyst+%2F+Data+Scientist;I+turn+messy+data+into+decisions;Python+%C2%B7+SQL+%C2%B7+On-chain+Analytics+%C2%B7+ML" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=620&height=60&lines=Hi%2C+I'm+Bonnie+Bennett+%F0%9F%91%8B;Senior+Data+Analyst+%2F+Data+Scientist;I+turn+messy+data+into+decisions;Python+%C2%B7+SQL+%C2%B7+On-chain+Analytics+%C2%B7+ML" />
   </a>
 </div>
 
