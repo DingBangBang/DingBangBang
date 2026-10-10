@@ -39,7 +39,7 @@ I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️
 - 👨‍💻 &nbsp;Currently learning Machine Learning and Data Science Master and Solidity/Go grammer📖
 - 💬 &nbsp;Skillset: Python, SQL, Regex, JavaScript, R, Visualization, Tokenomics, analysis methodology <sub>especially in UserBehavior, OnlineRetail, CryptoExchange</sub> 😎
 - 🌱 &nbsp;Gonna take on the Digital-Nomad lifestyle based on efficient remote work and excellent energy management :wink:
-- ⚡ &nbsp;Fun fact: In the transition to a Data Scientist and I :heart: :cat:s, X-sports and travel <sub>MBTI-ENTP</sub> ⛷️
+- ⚡ &nbsp;Fun fact: In the transition to a Data Scientist and I :heart: :cat:s, X-sports and travel <sub>MBTI-INTP</sub> ⛷️
 - 🚗 &nbsp;My nuts point: Embarked on an around-the-world adventures to ponder over how to live my life instead of mindlessly working(❎a dead-alive person❎), back here with a tranquil and steady core 🥰
 
 ## ❓ &nbsp;**I came into data field for**
