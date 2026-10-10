@@ -114,6 +114,21 @@ I'm Bonnie Ting, a Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive
 - Airflow
 - AI Agent(Claude/Codex/Copilot/Cline/Cursor/LangChain/LangGragh)
 ```
+#### Programming Language
+```
+Python
+- SQL: SparkSQL, PrestoSQL / Trino, HiveSQL, NoSQL, ClickHouse, Redis, Cypher, GraphQL, PromQL, Cypher, KQL, DuneSQL, MongoDB, DuckDB, TiDB
+- R
+- Scala
+- Java
+- SAS
+- MATLAB
+- Julia
+- JavaScript / TypeScript
+- Bash / Shell / PowerShell
+- C++
+- CUDA
+```
 
 </details>
 
