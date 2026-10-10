@@ -38,11 +38,29 @@ BORDER = "#30363d"
 LABEL = "#e6edf3"
 DARK_FALLBACK = "#c9d1d9"
 FONT = "600 11px -apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif"
+CHIP_FONT = "-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif"
 
-# My stack, drawn from the "Toolkit & Environment" block plus a few role-relevant extras.
-# (slug, display label)
+# My stack: a leading languages cluster, then the rest of the Toolkit & Environment stack
+# plus a few role-relevant extras. (slug, display label)
 ICONS = [
+    # --- Languages ---
     ("python", "Python"),
+    ("sql", "SQL"),
+    ("r", "R"),
+    ("scala", "Scala"),
+    ("openjdk", "Java"),
+    ("sas", "SAS"),
+    ("matlab", "MATLAB"),
+    ("julia", "Julia"),
+    ("javascript", "JavaScript"),
+    ("typescript", "TypeScript"),
+    ("gnubash", "Bash/Shell"),
+    ("powershell", "PowerShell"),
+    ("cplusplus", "C++"),
+    ("nvidia", "CUDA"),
+    ("go", "Go"),
+    ("solidity", "Solidity"),
+    # --- Data stores & engines ---
     ("mysql", "MySQL"),
     ("tidb", "TiDB"),
     ("postgresql", "PostgreSQL"),
@@ -55,6 +73,7 @@ ICONS = [
     ("presto", "PrestoSQL"),
     ("apachekafka", "Kafka"),
     ("graphql", "GraphQL"),
+    # --- Analysis & notebooks ---
     ("jupyter", "Jupyter"),
     ("anaconda", "Anaconda"),
     ("pycharm", "PyCharm"),
@@ -62,31 +81,29 @@ ICONS = [
     ("rstudioide", "RStudio"),
     ("googlesheets", "Sheets"),
     ("jetbrains", "DataSpell"),
-    ("grafana", "Grafana"),
-    ("looker", "Looker"),
-    ("plotly", "Plotly"),
-    ("streamlit", "Streamlit"),
     ("pandas", "Pandas"),
     ("numpy", "NumPy"),
     ("scikitlearn", "scikit-learn"),
     ("tensorflow", "TensorFlow"),
     ("pytorch", "PyTorch"),
     ("fastapi", "FastAPI"),
+    # --- Visualization ---
+    ("grafana", "Grafana"),
+    ("looker", "Looker"),
+    ("plotly", "Plotly"),
+    ("streamlit", "Streamlit"),
+    # --- Engineering & collaboration ---
     ("docker", "Docker"),
     ("kubernetes", "Kubernetes"),
     ("linux", "Linux"),
-    ("gnubash", "Bash"),
     ("git", "Git"),
     ("github", "GitHub"),
     ("gitlab", "GitLab"),
     ("jira", "Jira"),
     ("notion", "Notion"),
     ("apple", "macOS"),
-    ("r", "R"),
-    ("javascript", "JavaScript"),
-    ("go", "Go"),
-    ("solidity", "Solidity"),
     ("apacheairflow", "Airflow"),
+    # --- AI & agents ---
     ("deepseek", "DeepSeek"),
     ("claude", "Claude"),
     ("githubcopilot", "Copilot"),
@@ -95,9 +112,18 @@ ICONS = [
     ("langgraph", "LangGraph"),
 ]
 
+# Brands with no Simple Icons logo (trademark-removed). Rendered as a rounded monogram chip
+# instead so the language still shows up: slug -> (abbreviation, chip colour).
+MONOGRAMS = {
+    "sql": ("SQL", "#336791"),
+    "sas": ("SAS", "#1E4B8F"),
+    "matlab": ("MAT", "#E16737"),
+    "powershell": ("PS", "#5391FE"),
+}
+
 
 def fetch_icon(slug: str) -> tuple[str, str]:
-    """Fetch a Simple Icons logo; return ``(path_d, brand_hex)``."""
+    """Fetch a Simple Icons logo; return ``(inner_svg, brand_hex)``."""
     request = urllib.request.Request(
         CDN.format(slug), headers={"User-Agent": "generate-icon-marquee"}
     )
@@ -109,7 +135,8 @@ def fetch_icon(slug: str) -> tuple[str, str]:
         raise RuntimeError(f"No <path> data found for '{slug}'.")
     match = re.search(r'fill="(#[0-9a-fA-F]{6})"', svg)
     color = match.group(1) if match else DARK_FALLBACK
-    return "".join(paths), color
+    inner = "".join(f'<path d="{d}"/>' for d in paths)
+    return inner, color
 
 
 def readable(color: str) -> str:
@@ -117,6 +144,17 @@ def readable(color: str) -> str:
     r, g, b = (int(color[i : i + 2], 16) for i in (1, 3, 5))
     luminance = (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255
     return DARK_FALLBACK if luminance < 0.22 else color
+
+
+def monogram_icon(abbr: str, color: str) -> str:
+    """A rounded chip carrying the brand abbreviation, for logos Simple Icons no longer ships."""
+    font_size = min(9.0, 30.0 / max(len(abbr), 1))
+    baseline = 12 + font_size * 0.36
+    return (
+        f'<rect x="1" y="1" width="22" height="22" rx="7" fill="{color}"/>'
+        f'<text x="12" y="{baseline:.1f}" text-anchor="middle" font-size="{font_size:.1f}" '
+        f'font-family="{CHIP_FONT}" font-weight="700" fill="#ffffff">{abbr}</text>'
+    )
 
 
 def tile(slug: str, label: str, color: str, x: float) -> str:
@@ -137,14 +175,14 @@ def render(icons: list[tuple[str, str, str]]) -> str:
     period = len(icons) * TILE_W
 
     defs = ["<defs>"]
-    for slug, _label, path_d, _color in icons:
-        defs.append(f'<g id="ic-{slug}"><path d="{path_d}"/></g>')
+    for slug, _label, inner, _color in icons:
+        defs.append(f'<g id="ic-{slug}">{inner}</g>')
     defs.append("</defs>")
 
     tiles = []
     for half in range(2):  # two identical bands -> seamless loop
         base = half * period
-        for i, (slug, label, _path_d, color) in enumerate(icons):
+        for i, (slug, label, _inner, color) in enumerate(icons):
             tiles.append(tile(slug, label, color, base + i * TILE_W))
 
     return (
@@ -184,12 +222,17 @@ def main() -> int:
 
     resolved: list[tuple[str, str, str]] = []
     for slug, label in ICONS:
-        try:
-            path_d, color = fetch_icon(slug)
-        except Exception as exc:  # skip a missing logo rather than fail the build
-            print(f"warning: skipping '{slug}' ({exc})")
-            continue
-        resolved.append((slug, label, path_d, readable(color)))
+        if slug in MONOGRAMS:
+            abbr, color = MONOGRAMS[slug]
+            inner = monogram_icon(abbr, color)
+        else:
+            try:
+                inner, color = fetch_icon(slug)
+            except Exception as exc:  # skip a missing logo rather than fail the build
+                print(f"warning: skipping '{slug}' ({exc})")
+                continue
+            color = readable(color)
+        resolved.append((slug, label, inner, color))
 
     svg = render(resolved)
     out_dir = os.path.dirname(args.out)
