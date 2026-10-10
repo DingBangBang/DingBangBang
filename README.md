@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm Bonnie Ting, a Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive my scripts, projects and break things here :rofl:
+I'm Bonnie Bennett, a Senior Data Analyst🧙‍♀️ from Asia🇨🇳. I archive my scripts, projects and break things here :rofl:
 
 <!-- Typewriter terminal (readme-typing-svg) -->
 <div align="center">
