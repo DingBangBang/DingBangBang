@@ -13,16 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-
-I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️ from Asia🇨🇳. I archive my scripts, projects and break things here. Also turning coffee into SELECT statements. :rofl: Data is the new oil but I'm the refinery. Any sufficiently advanced technology is indistinguishable from magic, I think.
-
 <!-- Typewriter terminal (readme-typing-svg) -->
 <div align="center">
   <a href="https://github.com/DingBangBang">
     <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=620&height=60&lines=Hi%2C+I'm+Bonnie+Bennett+%F0%9F%91%8B;Senior+Data+Analyst+%2F+Data+Scientist;I+turn+messy+data+into+decisions;Python+%C2%B7+SQL+%C2%B7+On-chain+Analytics+%C2%B7+ML" />
   </a>
 </div>
+
+# Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
+I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️ from Asia🇨🇳. I archive my scripts, projects and break things here. Also turning coffee into SELECT statements. :rofl: Data is the new oil but I'm the refinery. Any sufficiently advanced technology is indistinguishable from magic, I think.
+
+
 
 <!--
 ## 📚 Table of Contents
@@ -38,28 +40,36 @@ I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️
 - 🔭 &nbsp;Immersed in data field with over 5 years of professional experience at top 2 crypto centralized exchanges and 3 companies of the Fortune Global 500. 📅
 - 👨‍💻 &nbsp;Currently learning Machine Learning and Data Science Master and Solidity/Go grammer📖
 - 💬 &nbsp;Skillset: Python, SQL, Regex, JavaScript, R, Visualization, Tokenomics, analysis methodology <sub>especially in UserBehavior, OnlineRetail, CryptoExchange</sub> 😎
-- 🌱 &nbsp;Gonna take on the Digital-Nomad lifestyle based on efficient remote work and excellent energy management :wink:
-- ⚡ &nbsp;Fun fact: In the transition to a Data Scientist and I :heart: :cat:s, X-sports and travel <sub>MBTI-INTP</sub> ⛷️
-- 🚗 &nbsp;My nuts point: Embarked on an around-the-world adventures to ponder over how to live my life instead of mindlessly working(❎a dead-alive person❎), back here with a tranquil and steady core 🥰
+- **🧠 Knowledge Tree:** `Data Storytelling & Visualization` · `Growth Analytics Frameworks & Methodology` · `Behavioral Science` · `User Profiling & Clustering` · `Recommendation Systems` · `Quantitative Finance & Engineering` · `Tokenomics` · `On-chain Analytics` · `Data Infrastructure` · `Data Productization & Servitization`
+- **🎯 Domains:** `CEX/DEX`·`Finance`·`Online Retail`·`FMCG`
+- 🌱 &nbsp;Living with the Digital-Nomad lifestyle based on efficient remote work and excellent energy management :wink:
+- ⚡ &nbsp;Fun fact: Almost finished the transition to a Data Scientist and I :heart: :cat:s, X-sports and Solo Round-the-World Road Adventure <sub>MBTI-INTP</sub> ⛷️
+- 🚗 &nbsp;My nuts point: Have embarked on an around-the-world adventures to ponder over how to live my life instead of mindlessly working(❎a dead-alive person❎), back here with a tranquil and steady core 🥰
+
+
+<!--
+**🧠 Knowledge Tree & Domain Expertise:**可视化与数据叙事 · 增长分析框架 · 用户心理与行为科学｜用户画像与聚类分群 · 推荐系统原理 · 量化金融与工程｜代币经济学 · 链上分析｜数据基础设施 · 数据产品化与服务化
+**🎯 深耕领域 (Domains):** `CEX/DEX` `Finance` `Online Retail` `FMCG`
+-->
 
 ## ❓ &nbsp;**I came into data field for**
-- 🥇 Answer how and why, take action, build influence and drive business growth by proposing data-backed recommendations, satisfying me a lot. And dealing with diverse data absorbs me so much.
+- 🥇 Driven by a passion for uncovering the "how" and "why" through data, I deliver actionable insights and data-backed recommendations to drive business growth. I thrive on navigating diverse datasets and communicating complex findings to cross-functional stakeholders.🥰
 - 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causes of user behavior.
 - 🥉 Enjoy immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>(truly enthusiastic about automating workflows)</sub>
 - 🙋‍♀️ Highly motivated **self-starter** when getting alone with data and comfortable with autonomy and believes in **lifelong learning**.
 - ⚠️ While pursuing my Master’s in Data Science, I will embrace the next two years as an exploratory journey—balancing rigorous academics with hands-on work experience .
 
 ## 📕 &nbsp;**Quickview of my [portfolio](https://dingbangbang.github.io/)**
-- [On-Chain Whale Behavior Monitoring & Flow Analytics - Onchain](https://github.com/DingBangBang/whale-alert-system)
-- [Crypto User Behavioral Clustering & Churn Prediction - ML/DS](https://github.com/DingBangBang/crypto_churn_prediction_project)
-- [Automated Market Reporting & Competitive Attribution Engine - BI&LLM](https://github.com/DingBangBang/report_competitor_monitor)
-- [Real-Time Exchange Market Share Intelligence - ETL](https://github.com/DingBangBang/dune-dashboard)
+- [On-Chain **Whale Behavior** Monitoring & Flow Analytics - Onchain](https://github.com/DingBangBang/whale-alert-system)
+- [Crypto User Behavioral Clustering & **Churn Prediction** - ML/DS](https://github.com/DingBangBang/crypto_churn_prediction_project)
+- [**Automated** Market Reporting & Competitive Attribution Engine - BI&LLM](https://github.com/DingBangBang/report_competitor_monitor)
+- [**Real-Time** Exchange Market Share Intelligence - ETL](https://github.com/DingBangBang/dune-dashboard)
 
-- [Personal comprehensive mining of 18 million sales data with insights - BA](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio1_sales_EDA)
-- [Stand-alone process to accomplish a complex dashboard of Key Accounts - VIZ](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio2_ka_dashboard_VLZ)
-- [Stand-alone automated periodic report in HTML, email and Excel - VLZ](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio3_automated_periodic_reports_BA)
-- [Series analysis compassing customer transactions on the platform - ETL](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio4_customer_analysis_BA)
-- [Solo project of sentiment analysis for dissertation - NLP](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio5_comments_NLP)
+- [Personal **comprehensive mining** of 18 million sales data with insights - BA](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio1_sales_EDA)
+- [Stand-alone process to accomplish a complex dashboard of **Key Accounts** - VIZ](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio2_ka_dashboard_VLZ)
+- [Stand-alone **automated** periodic report in HTML, email and Excel - VLZ](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio3_automated_periodic_reports_BA)
+- [Series analysis compassing **customer transactions** on the platform - ETL](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio4_customer_analysis_BA)
+- [Solo project of **sentiment analysis** for dissertation - NLP](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio5_comments_NLP)
 
 
 
@@ -70,6 +80,7 @@ I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️
   <img alt="My technology stack" src="https://raw.githubusercontent.com/DingBangBang/DingBangBang/main/assets/icon-marquee.svg" />
 </div>
 
+<!--
 <details>
 <summary>Click to expand</summary>
 
@@ -131,7 +142,7 @@ Python
 ```
 
 </details>
-
+-->
 
 ## 🏅 &nbsp;**Certificate**
 - Google Data Analysis Certificate
@@ -152,20 +163,27 @@ Python
   </picture>
 </div>
 
+
+
 <!-- Isometric 3D contribution graph, refreshed daily from the GraphQL API (colincode0/github-readme) -->
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DingBangBang/DingBangBang/main/output/contribs-dark.svg" />
     <img alt="Isometric 3D GitHub contribution chart" src="https://raw.githubusercontent.com/DingBangBang/DingBangBang/main/output/contribs-light.svg" />
   </picture>
 </div>
+-->
+
 
 <!-- Most-starred project with a star count that rolls up like an odometer (nubjs/nub) -->
+<!--
 <div align="center">
   <a href="https://github.com/DingBangBang?tab=repositories&sort=stargazers">
     <img alt="My most-starred project" src="https://raw.githubusercontent.com/DingBangBang/DingBangBang/main/stars.svg" />
   </a>
 </div>
+-->
 
 ## 🔗 &nbsp;**Reach Me Easily**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BonnieBennett-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonniebennett333/)
