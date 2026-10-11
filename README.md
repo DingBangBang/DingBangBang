@@ -61,7 +61,7 @@ I love coding <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRlND
 ## ❓ &nbsp;**I came into data field for**
 - 🥇 Driven by a passion for uncovering the "how" and "why" through data, I deliver **actionable insights and data-driven decisions** to drive business growth. I thrive on navigating diverse datasets and communicating complex findings to cross-functional stakeholders.🥰
 - 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causes of user behavior.
-- 🥉 Enjoy Agentic Workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>(truly enthusiastic about automating workflows)</sub>
+- 🥉 Enjoy agentic workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>(truly enthusiastic about automating workflows)</sub>
 - 🙋‍♀️ Highly motivated **self-starter** when getting alone with data and comfortable with autonomy and believes in **lifelong learning**.
 - ⚠️ While pursuing my Master’s in Data Science, I will embrace the next two years as an exploratory journey—balancing rigorous academics with hands-on work experience .
 
