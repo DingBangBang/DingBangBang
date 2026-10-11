@@ -88,6 +88,10 @@ I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️
   <img alt="My technology stack" src="https://raw.githubusercontent.com/DingBangBang/DingBangBang/main/assets/icon-marquee.svg" />
 </div>
 
+
+
+<!--https://github-readme-activity-graph.vercel.app/graph?username=DingBangBang&theme=react-dark-->
+
 <!--
 <details>
 <summary>Click to expand</summary>
