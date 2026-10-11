@@ -157,11 +157,7 @@ Python
 -->
 
 ## 🏅 &nbsp;**Certificate**
-- Google Data Analysis Certificate
-- Google Advanced Data Analysis Certificate
-- Google Business Intelligence Professional Certificate
-- Google Data Science Certificate
-- Google Advanced Data Science Certificate
+- Google Advanced Data Analysis / Business Intelligence / Advanced Data Science Professional Certificate
 
 
 ## 📊 &nbsp;**My GitHub in Motion**
