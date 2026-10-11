@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <!-- Typewriter terminal (readme-typing-svg) -->
 <div align="center">
   <a href="https://github.com/DingBangBang">
@@ -23,6 +25,8 @@ Here are some ideas to get you started:
 # Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️ from Asia🇨🇳. I archive my scripts, projects and break things here. Also turning coffee into SELECT statements. :rofl: Data is the new oil but I'm the refinery. Any sufficiently advanced technology is indistinguishable from magic, I believe.
+
+I love code <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRlNDRyeXZtdGp1bGNrYjRodGVybWtqcXU0bjdwZnpqdzdzemdmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="80" style="vertical-align: middle;" />
 
 
 
