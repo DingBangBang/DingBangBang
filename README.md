@@ -22,9 +22,11 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-# Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRlNDRyeXZtdGp1bGNrYjRodGVybWtqcXU0bjdwZnpqdzdzemdmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="80" style="vertical-align: middle;" />
+# Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
 
 I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️ from Asia🇨🇳. I archive my scripts, projects and break things here. Also turning coffee into SELECT statements. :rofl: Data is the new oil but I'm the refinery. Any sufficiently advanced technology is indistinguishable from magic, I believe.
+
+Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRlNDRyeXZtdGp1bGNrYjRodGVybWtqcXU0bjdwZnpqdzdzemdmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="80" style="vertical-align: middle;" />
 
 <!--I love coding<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRlNDRyeXZtdGp1bGNrYjRodGVybWtqcXU0bjdwZnpqdzdzemdmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="80" style="vertical-align: middle;" />
 -->
@@ -70,7 +72,7 @@ I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️
 ## ❓ &nbsp;**I came into data field for**
 - 🥇 Driven by a passion for uncovering **the how and why** through data, I deliver **actionable insights and data-driven decisions** to drive business growth. I thrive on navigating diverse datasets and communicating complex findings to cross-functional stakeholders.🥰
 - 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causation of user behavior.
-- 🥉 Enjoy agentic workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>enthusiastic about AI Automation</sub>
+- 🥉 Enjoy agentic workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>enthusiastic about AI Transformation</sub>
 - 🙋‍♀️ A self-driven **problem solver** who thrives when working solo with data — autonomous by nature, **a lifelong learner** by choice.
 - ⚠️Future Master’s in Data Science candidate. The next 5-10 years will be an exploratory journey—balancing academic preparation with hands-on work.
 
