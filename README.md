@@ -42,29 +42,37 @@ I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️
 -->
 
 ## 🚴‍♀️ &nbsp;**Know me in 30 secs**
-- 🔭 &nbsp;Immersed in data field with over 5 years of professional experience at top 2 crypto centralized exchanges and 3 companies of the Fortune Global 500.📅
-- 👨‍💻 &nbsp;Currently learning Machine Learning and Data Science Master and Solidity/Go grammer.📖
+- 🔭 &nbsp;Immersed in data field with **over 5 years** of professional experience at top **2 crypto centralized exchanges and 3 companies of the Fortune Global 500**. 📅
+- 🚀 Transitioning into Data Science via rigorous self-study (Deep Learning, LLM) & hands-on projects. Exploring Solidity & Go.📖
 - **🧠 Knowledge Tree:** `Data Storytelling & Visualization` · `Growth Analytics Frameworks & Methodology` · `Behavioral Science` · `User Profiling & Clustering` · `Recommendation Systems` · `Quantitative Finance & Engineering` · `Tokenomics` · `Smart Contract Logic & On-chain Analytics` · `Data Infrastructure` · `Data Productization & Servitization`
 - **🎯 Domains:** `CEX/DEX`·`Finance`·`Online Retail`·`FMCG`
-- 🌱 &nbsp;Living with the Digital-Nomad lifestyle based on efficient remote work and excellent energy management :wink:
-- ⚡ &nbsp;Fun fact: Almost finished the transition to a Data Scientist and I :heart: :cat:s, X-sports⛷️🏄‍♀️🤿🏇🪂⛵🧗‍♀️🏍️🏎️🏕️ and Solo Round-the-World Road Adventure.🚙 <sub>MBTI-INTP</sub>
-- 🚗 &nbsp;My nuts point: Have embarked on an around-the-world adventures to ponder over how to live my life instead of mindlessly working(❎a dead-alive person❎), back here with a tranquil and steady core.🥰
+- 🌍 **Fun Fact**: I :heart: :cat:s, and living in the Digital Nomad lifestyle, fueled by top-tier self-motivation, exceptional time & energy management, and rapid learning agility. I’m taking a sabbatical to upskill, travel, X-sports⛷️🏄‍♀️🤿🏇🪂⛵🧗‍♀️🏍️🏎️🏕️, and ponder how to build a life well-lived, rather than just a career mindlessly tracked.I believe the focus required for deep technology and models and the adrenaline of solo round-the-world road trips & X-sports are two sides of the same coin. 🚙 <sub>MBTI-INTP</sub>
+
+
 
 <!--
 - 💬 &nbsp;Skillset: Python, SQL, Regex, JavaScript, R, Visualization, Tokenomics, analysis methodology <sub>especially in UserBehavior, OnlineRetail, CryptoExchange</sub> 😎
+- 👨‍💻 &nbsp;Living with the Digital-Nomad lifestyle based on efficient remote work and excellent energy management :wink:
+- ⚡ &nbsp;Fun fact: I :heart: :cat:s, X-sports⛷️🏄‍♀️🤿🏇🪂⛵🧗‍♀️🏍️🏎️🏕️ and Solo Round-the-World Road Adventure.
+- 🚗 &nbsp;Nuts point: Have embarked on an around-the-world adventures to ponder over how to live my life instead of mindlessly working(❎a dead-alive person❎), back here with a tranquil and steady core.🥰
 -->
 
 <!--
 **🧠 Knowledge Tree & Domain Expertise:**可视化与数据叙事 · 增长分析框架 · 用户心理与行为科学｜用户画像与聚类分群 · 推荐系统原理 · 量化金融与工程｜代币经济学 · 智能合约逻辑与链上分析｜数据基础设施 · 数据产品化与服务化
 **🎯 深耕领域 (Domains):** `CEX/DEX` `Finance` `Online Retail` `FMCG`
+- ⚠️ While pursuing my Master’s in Data Science, I will embrace the next two years as an exploratory journey—balancing rigorous academics with hands-on work experience .
+🌏 Embracing the Digital Nomad lifestyle. I’m taking a sabbatical to upskill, travel (Paragliding 🪂, Wingsuiting), and ponder how to build a life well-lived, rather than just a career mindlessly tracked.
 -->
+
+
 
 ## ❓ &nbsp;**I came into data field for**
 - 🥇 Driven by a passion for uncovering the "how" and "why" through data, I deliver **actionable insights and data-driven decisions** to drive business growth. I thrive on navigating diverse datasets and communicating complex findings to cross-functional stakeholders.🥰
 - 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causes of user behavior.
-- 🥉 Enjoy agentic workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>(truly enthusiastic about automating workflows)</sub>
-- 🙋‍♀️ Highly motivated **self-starter** when getting alone with data and comfortable with autonomy and believes in **lifelong learning**.
-- ⚠️ While pursuing my Master’s in Data Science, I will embrace the next two years as an exploratory journey—balancing rigorous academics with hands-on work experience .
+- 🥉 Enjoy agentic workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>enthusiastic about AI Automation</sub>
+- 🙋‍♀️ A self-driven **problem solver** who thrives when working solo with data — autonomous by nature, **a lifelong learner** by choice.
+- ⚠️Future Master’s in Data Science candidate. The next 5-10 years will be an exploratory journey—balancing academic preparation with hands-on work.
+
 
 ## 📕 &nbsp;**Quickview of my [portfolio](https://dingbangbang.github.io/)**
 - [On-Chain **Whale Behavior** Monitoring & Flow Analytics - Onchain](https://github.com/DingBangBang/whale-alert-system)
