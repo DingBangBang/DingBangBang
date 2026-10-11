@@ -42,11 +42,12 @@ I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️
 -->
 
 ## 🚴‍♀️ &nbsp;**Know me in 30 secs**
-- 🔭 &nbsp;Immersed in data field with **over 5 years** of professional experience at top **2 crypto centralized exchanges and 3 companies of the Fortune Global 500**. 📅
+- 🔭 Immersed in data field with **over 5 years** of professional experience at top **2 crypto centralized exchanges and 3 companies of the Fortune Global 500**. 📅
 - 🚀 Transitioning into Data Science via rigorous self-study (Deep Learning, LLM) & hands-on projects. Exploring Solidity & Go.📖
 - **🧠 Knowledge Tree:** `Data Storytelling & Visualization` · `Growth Analytics Frameworks & Methodology` · `Behavioral Science` · `User Profiling & Clustering` · `Recommendation Systems` · `Quantitative Finance & Engineering` · `Tokenomics` · `Smart Contract Logic & On-chain Analytics` · `Data Infrastructure` · `Data Productization & Servitization`
 - **🎯 Domains:** `CEX/DEX`·`Finance`·`Online Retail`·`FMCG`
-- 🌍 **Fun Fact**: I :heart: :cat:s, and living in the Digital Nomad lifestyle, fueled by top-tier self-motivation, exceptional time & energy management, and rapid learning agility. I’m taking a sabbatical to upskill, travel, X-sports⛷️🏄‍♀️🤿🏇🪂⛵🧗‍♀️🏍️🏎️🏕️, and ponder how to build a life well-lived, rather than just a career mindlessly tracked.I believe the focus required for deep technology and models and the adrenaline of solo round-the-world road trips & X-sports are two sides of the same coin. 🚙 <sub>MBTI-INTP</sub>
+- 🌍 **Fun Fact**: Living in the Digital Nomad lifestyle, fueled by top-tier self-motivation, exceptional time & energy management, and rapid learning agility.
+- 🚗 **Nuts point**: I :heart: :cat:s, travel, X-sports⛷️🏄‍♀️🤿🏇🪂⛵🧗‍♀️🏍️🏎️🏕️, and ponder how to build a life well-lived, rather than just a career mindlessly tracked.I think the focus required for deep technology and models and the adrenaline of solo round-the-world road trips & X-sports are two sides of the same coin. <sub>MBTI-INTP</sub>
 
 
 
@@ -67,8 +68,8 @@ I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️
 
 
 ## ❓ &nbsp;**I came into data field for**
-- 🥇 Driven by a passion for uncovering the "how" and "why" through data, I deliver **actionable insights and data-driven decisions** to drive business growth. I thrive on navigating diverse datasets and communicating complex findings to cross-functional stakeholders.🥰
-- 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causes of user behavior.
+- 🥇 Driven by a passion for uncovering **the how and why** through data, I deliver **actionable insights and data-driven decisions** to drive business growth. I thrive on navigating diverse datasets and communicating complex findings to cross-functional stakeholders.🥰
+- 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causation of user behavior.
 - 🥉 Enjoy agentic workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>enthusiastic about AI Automation</sub>
 - 🙋‍♀️ A self-driven **problem solver** who thrives when working solo with data — autonomous by nature, **a lifelong learner** by choice.
 - ⚠️Future Master’s in Data Science candidate. The next 5-10 years will be an exploratory journey—balancing academic preparation with hands-on work.
