@@ -42,13 +42,13 @@ I'm Bonnie Bennett, a Senior Data Analyst and also a Data Scientist🧙‍♀️
 -->
 
 ## 🚴‍♀️ &nbsp;**Know me in 30 secs**
-- 🔭 &nbsp;Immersed in data field with over 5 years of professional experience at top 2 crypto centralized exchanges and 3 companies of the Fortune Global 500. 📅
-- 👨‍💻 &nbsp;Currently learning Machine Learning and Data Science Master and Solidity/Go grammer📖
+- 🔭 &nbsp;Immersed in data field with over 5 years of professional experience at top 2 crypto centralized exchanges and 3 companies of the Fortune Global 500.📅
+- 👨‍💻 &nbsp;Currently learning Machine Learning and Data Science Master and Solidity/Go grammer.📖
 - **🧠 Knowledge Tree:** `Data Storytelling & Visualization` · `Growth Analytics Frameworks & Methodology` · `Behavioral Science` · `User Profiling & Clustering` · `Recommendation Systems` · `Quantitative Finance & Engineering` · `Tokenomics` · `Smart Contract Logic & On-chain Analytics` · `Data Infrastructure` · `Data Productization & Servitization`
 - **🎯 Domains:** `CEX/DEX`·`Finance`·`Online Retail`·`FMCG`
 - 🌱 &nbsp;Living with the Digital-Nomad lifestyle based on efficient remote work and excellent energy management :wink:
-- ⚡ &nbsp;Fun fact: Almost finished the transition to a Data Scientist and I :heart: :cat:s, X-sports⛷️🏄‍♀️🤿🏇🪂⛵🧗‍♀️🏍️🏎️🏕️ and Solo Round-the-World Road Adventure🚙 <sub>MBTI-INTP</sub>
-- 🚗 &nbsp;My nuts point: Have embarked on an around-the-world adventures to ponder over how to live my life instead of mindlessly working(❎a dead-alive person❎), back here with a tranquil and steady core 🥰
+- ⚡ &nbsp;Fun fact: Almost finished the transition to a Data Scientist and I :heart: :cat:s, X-sports⛷️🏄‍♀️🤿🏇🪂⛵🧗‍♀️🏍️🏎️🏕️ and Solo Round-the-World Road Adventure.🚙 <sub>MBTI-INTP</sub>
+- 🚗 &nbsp;My nuts point: Have embarked on an around-the-world adventures to ponder over how to live my life instead of mindlessly working(❎a dead-alive person❎), back here with a tranquil and steady core.🥰
 
 <!--
 - 💬 &nbsp;Skillset: Python, SQL, Regex, JavaScript, R, Visualization, Tokenomics, analysis methodology <sub>especially in UserBehavior, OnlineRetail, CryptoExchange</sub> 😎
