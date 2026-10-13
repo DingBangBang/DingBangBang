@@ -44,7 +44,7 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 -->
 
 ## 🚴‍♀️ &nbsp;**Know me in 30 secs**
-- 🔭 Immersed in data field with **over 5 years** of professional experience at top **2 crypto centralized exchanges and 3 companies of the Fortune Global 500**. 📅
+- 🔭 Immersed in the data field with **over 5 years** of professional experience at the **top 2 crypto centralized exchanges and 3 companies of the Fortune Global 500**. 📅
 - 🚀 Transitioning into Data Science via rigorous self-study (Deep Learning, LLM) & hands-on projects. Exploring Solidity & Go.📖
 - **🧠 Knowledge Tree:** `Data Storytelling & Visualization` · `Growth Analytics Frameworks & Methodology` · `Behavioral Science` · `User Profiling & Clustering` · `Recommendation Systems` · `Quantitative Finance & Engineering` · `Tokenomics` · `Smart Contract Logic & On-chain Analytics` · `Data Infrastructure` · `Data Productization & Servitization`
 - **🎯 Domains:** `CEX/DEX`·`Finance`·`Online Retail`·`FMCG`
@@ -69,7 +69,7 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 
 
 
-## ❓ &nbsp;**I came into data field for**
+## ❓ &nbsp;**I came into the data field for**
 - 🥇 Driven by a passion for uncovering **the how and why** through data, I deliver **actionable insights and data-driven decisions** to drive business growth. I thrive on navigating diverse datasets and communicating complex findings to cross-functional stakeholders.🥰
 - 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causation of user behavior.
 - 🥉 Enjoy agentic workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>enthusiastic about AI Transformation</sub>
@@ -167,7 +167,7 @@ Python
 </details>
 -->
 
-## 🏅 &nbsp;**Certificate**
+## 🏅 &nbsp;**Certificates**
 - Google Advanced Data Analysis / Business Intelligence / Advanced Data Science Professional Certificate
 
 
