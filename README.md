@@ -49,7 +49,7 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 - **🧠 Knowledge Tree:** `Data Storytelling & Visualization` · `Growth Analytics Frameworks & Methodology` · `Behavioral Science` · `User Profiling & Clustering` · `Recommendation Systems` · `Quantitative Finance & Engineering` · `Tokenomics` · `Smart Contract Logic & On-chain Analytics` · `Data Infrastructure` · `Data Productization & Servitization`
 - **🎯 Domains:** `CEX/DEX`·`Finance`·`Online Retail`·`FMCG`
 - 🌍 **Fun Fact**: Living in the Digital Nomad lifestyle, fueled by top-tier self-motivation, exceptional time & energy management, and rapid learning agility.
-- 🚗 **Nuts point**: I :heart: :cat:s, travel, X-sports⛷️🏄‍♀️🤿🏇🪂⛵🧗‍♀️🏍️🏎️🏕️, and ponder how to build a life well-lived, rather than just a career mindlessly tracked.I think the focus required for deep technology and models and the adrenaline of solo round-the-world road trips & X-sports are two sides of the same coin. <sub>MBTI-INTP</sub>
+- 🚗 **Nuts point**: I :heart: :cat:s, travel, X-sports⛷️🏄‍♀️🤿🏇🪂⛵🧗‍♀️🏍️🏎️🏕️, and ponder how to build a life well-lived, rather than just a career mindlessly tracked.I think the focus required for deep technology and models and the adrenaline of solo round-the-world road trips & X-sports are two sides of the same coin.<sub>MBTI-INTP</sub>
 
 
 
