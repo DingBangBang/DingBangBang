@@ -78,6 +78,7 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 
 
 ## 📕 &nbsp;**Quickview of my [portfolio](https://dingbangbang.github.io/)**
+- [End-to-End CEX Growth Engine: From Funnel Leakage & Markov Attribution to User Behavior, ROI Waterfall, and Quarterly OKR Forecasting (dbt + DuckDB + Streamlit)](https://github.com/DingBangBang/Portfolio/tree/main/projects/04_Customer_Analysis_BA)
 - [On-Chain **Whale Behavior** Monitoring & Flow Analytics - Onchain](https://github.com/DingBangBang/whale-alert-system)
 - [Crypto User Behavioral Clustering & **Churn Prediction** - ML/DS](https://github.com/DingBangBang/crypto_churn_prediction_project)
 - [**Automated** Market Reporting & Competitive Attribution Engine - BI&LLM](https://github.com/DingBangBang/report_competitor_monitor)
