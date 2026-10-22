@@ -394,18 +394,21 @@
 <polygon points="618.32,246.36 629.59,250.46 618.32,254.56 607.04,250.46" fill="#0e4429"/>
 <polygon points="607.04,267.46 607.04,250.46 618.32,254.56 618.32,271.56" fill="#0c3b24"/>
 <polygon points="618.32,271.56 618.32,254.56 629.59,250.46 629.59,267.46" fill="#0a321e"/>
-<polygon points="644.63,252.36 655.91,256.46 644.63,260.56 633.35,256.46" fill="#0e4429"/>
-<polygon points="633.35,267.46 633.35,256.46 644.63,260.56 644.63,271.56" fill="#0c3b24"/>
-<polygon points="644.63,271.56 644.63,260.56 655.91,256.46 655.91,267.46" fill="#0a321e"/>
+<polygon points="644.63,249.36 655.91,253.46 644.63,257.56 633.35,253.46" fill="#0e4429"/>
+<polygon points="633.35,267.46 633.35,253.46 644.63,257.56 644.63,271.56" fill="#0c3b24"/>
+<polygon points="644.63,271.56 644.63,257.56 655.91,253.46 655.91,267.46" fill="#0a321e"/>
 <polygon points="592.01,245.36 603.28,249.46 592.01,253.56 580.73,249.46" fill="#39d353"/>
 <polygon points="580.73,267.46 580.73,249.46 592.01,253.56 592.01,271.56" fill="#32b949"/>
 <polygon points="592.01,271.56 592.01,253.56 603.28,249.46 603.28,267.46" fill="#2a9c3d"/>
 <polygon points="605.16,268.14 616.44,272.25 605.16,276.35 593.89,272.25" fill="#161b22"/>
+<polygon points="631.47,255.14 642.75,259.25 631.47,263.35 620.20,259.25" fill="#0e4429"/>
+<polygon points="620.20,272.25 620.20,259.25 631.47,263.35 631.47,276.35" fill="#0c3b24"/>
+<polygon points="631.47,276.35 631.47,263.35 642.75,259.25 642.75,272.25" fill="#0a321e"/>
 <polygon points="578.85,250.14 590.13,254.25 578.85,258.35 567.57,254.25" fill="#39d353"/>
 <polygon points="567.57,272.25 567.57,254.25 578.85,258.35 578.85,276.35" fill="#32b949"/>
 <polygon points="578.85,276.35 578.85,258.35 590.13,254.25 590.13,272.25" fill="#2a9c3d"/>
 <polygon points="592.01,272.93 603.28,277.04 592.01,281.14 580.73,277.04" fill="#161b22"/>
-<text x="697.25" y="14.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="34" font-weight="700" fill="#39d353">217</text>
+<text x="697.25" y="14.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="34" font-weight="700" fill="#39d353">222</text>
 <text x="697.25" y="26.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="10" fill="#7d8590" letter-spacing="0.8">TOTAL CONTRIBUTIONS</text>
 <rect x="-92.09" y="221.91" width="12" height="17.39" rx="1" fill="#006d32"/>
 <text x="-86.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">S</text>
@@ -413,9 +416,9 @@
 <text x="-70.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">M</text>
 <rect x="-60.09" y="185.30" width="12" height="54.00" rx="1" fill="#39d353"/>
 <text x="-54.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">T</text>
-<rect x="-44.09" y="225.57" width="12" height="13.73" rx="1" fill="#006d32"/>
+<rect x="-44.09" y="223.74" width="12" height="15.56" rx="1" fill="#006d32"/>
 <text x="-38.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">W</text>
-<rect x="-28.09" y="229.23" width="12" height="10.07" rx="1" fill="#006d32"/>
+<rect x="-28.09" y="226.48" width="12" height="12.81" rx="1" fill="#006d32"/>
 <text x="-22.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">T</text>
 <rect x="-12.09" y="204.52" width="12" height="34.78" rx="1" fill="#006d32"/>
 <text x="-6.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">F</text>
