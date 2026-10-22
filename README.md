@@ -206,8 +206,13 @@ Python
 -->
 
 ## 🔗 &nbsp;**Reach Me Easily**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BonnieBennett-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonniebennett333/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bonnie_Bennett-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonniebennett333/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:dingbangchu@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?logo=telegram&logoColor=white)](https://t.me/bonniebennett333)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white)](https://wa.me/971556106241)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-Scan-green?logo=website&logoColor=white)](https://dingbangbang.github.io/)
+
+
+<!----
 [![Resume](https://img.shields.io/badge/Resume-PDF-green?logo=adobeacrobatreader&logoColor=white)](https://github.com/DingBangBang/DingBangBang/blob/main/Resume.pdf)
+----->
