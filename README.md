@@ -77,9 +77,10 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 - ⚠️Future Master’s in Data Science candidate. The next 5-10 years will be an exploratory journey—balancing academic preparation with hands-on work.
 
 
+<!--
 ## 📕 &nbsp;**Quickview of my [portfolio](https://dingbangbang.github.io/)**
 
-- [LLM-Powered Agent Framework for Automated **Text-to-SQL** & Data Retrieval - `AI Agent`](https://github.com/DingBangBang/Text-to-SQL_agent_framework)
+- [LLM-Powered Agent Framework for Automated **Text-to-SQL** & Data Retrieval - AI Agent](https://github.com/DingBangBang/Text-to-SQL_agent_framework)
 - [Knowledge **Graph System** for Event-Driven Opinion Mining and Trend Analysis - NLP/GenAI](https://github.com/DingBangBang/opinion-and-event-graph-system)
 - [Data-Driven **Tokenomics Research** of Crypto Assets & On-chain Economic Analysis and Modeling- Crypto/Research - Quant](https://github.com/DingBangBang/tokenomics-research)
 
@@ -93,6 +94,32 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 - [Stand-alone process to accomplish a complex dashboard of **Key Accounts** - VIZ](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio2_ka_dashboard_VLZ)
 - [Stand-alone **automated** periodic report in HTML, email and Excel - VLZ](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio3_automated_periodic_reports_BA)
 - [Solo project of **sentiment analysis** for dissertation - NLP](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio5_comments_NLP)
+-->
+
+
+## 🚀 Quickview of my [Portfolio](https://dingbangbang.github.io/)
+
+**🤖 AI, LLM & NLP**
+*   [💡**Text-to-SQL Agent Framework**](https://github.com/DingBangBang/Text-to-SQL_agent_framework): LLM-powered agent for automated data retrieval. - `AI Agent`
+*   [**Opinion & Event Graph System**](https://github.com/DingBangBang/opinion-and-event-graph-system): Knowledge graph system for event-driven opinion mining and trend analysis. - `NLP / GenAI`
+*   [**Sentiment Analysis Project**](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio5_comments_NLP): Solo dissertation project focusing on text analytics. - `NLP`
+
+**🪙 Crypto & On-chain Analytics**
+*   [**Tokenomics Research**](https://github.com/DingBangBang/tokenomics-research): Data-driven modeling and on-chain economic analysis of crypto assets. - `Quant`
+*   [💡**CEX Growth Engine**](https://github.com/DingBangBang/Portfolio/tree/main/projects/04_Customer_Analysis_BA): End-to-end funnel leakage, Markov attribution, and OKR forecasting (dbt + DuckDB + Streamlit). - `ML / DS`
+*   [**On-Chain Whale Monitoring**](https://github.com/DingBangBang/whale-alert-system): On-chain behavior monitoring and flow analytics. - `Data Engineering`
+*   [**Crypto Churn Prediction**](https://github.com/DingBangBang/crypto_churn_prediction_project): User behavioral clustering and churn prediction. - `ML / DS`
+*   [**Exchange Market Share Intelligence**](https://github.com/DingBangBang/dune-dashboard): Real-time market share ETL pipeline. - `ETL`
+
+**📊 BI, Reporting & E-commerce**
+*   [💡**Competitive Attribution Engine**](https://github.com/DingBangBang/report_competitor_monitor): Automated market reporting system driven by BI & LLM. - `BI / LLM`
+*   [**E-commerce Sales Mining**](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio1_sales_EDA): Comprehensive mining of 18M+ sales records with actionable insights. - `Business Analysis`
+*   [**Key Accounts Dashboard**](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio2_ka_dashboard_VLZ): Standalone pipeline and dashboard for VIP accounts. - `Visualization`
+*   [**Automated Periodic Reports**](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio3_automated_periodic_reports_BA): Automated reporting via HTML, email, and Excel. - `Reporting`
+
+
+
+
 
 <!--
 - [Series analysis compassing **customer transactions** on the platform - ETL](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio4_customer_analysis_BA)
