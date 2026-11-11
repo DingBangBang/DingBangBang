@@ -114,9 +114,9 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 
 **📊 BI, Reporting & E-commerce**
 *   [💡**Competitive Attribution Engine**](https://github.com/DingBangBang/report_competitor_monitor): Automated market reporting system driven by BI & LLM. - `BI / LLM`
-*   [**E-commerce Sales Mining**](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio1_sales_EDA): Comprehensive mining of 18M+ sales records with actionable insights. - `Business Analysis`
-*   [**Key Accounts Dashboard**](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio2_ka_dashboard_VLZ): Standalone pipeline and dashboard for VIP accounts. - `Visualization`
-*   [**Automated Periodic Reports**](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio3_automated_periodic_reports_BA): Automated reporting via HTML, email, and Excel. - `Reporting`
+*   [**E-commerce Sales Mining**](https://github.com/DingBangBang/Portfolio/tree/main/projects/01_Sales_EDA): Comprehensive mining of 18M+ sales records with actionable insights. - `Business Analysis`
+*   [**Key Accounts Dashboard**](https://github.com/DingBangBang/Portfolio/tree/main/projects/02_KA_Dashboard): Standalone pipeline and dashboard for VIP accounts. - `Visualization`
+*   [**Automated Periodic Reports**](https://github.com/DingBangBang/Portfolio/tree/main/projects/03_Periodic_Reports_Automation): Automated reporting via HTML, email, and Excel. - `Reporting`
 
 
 
