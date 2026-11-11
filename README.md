@@ -102,7 +102,8 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 **🤖 AI, LLM & NLP**
 *   [💡**Text-to-SQL Agent Framework**](https://github.com/DingBangBang/Text-to-SQL_agent_framework): LLM-powered agent for automated data retrieval. - `AI Agent`
 *   [**Opinion & Event Graph System**](https://github.com/DingBangBang/opinion-and-event-graph-system): Knowledge graph system for event-driven opinion mining and trend analysis. - `NLP / GenAI`
-*   [**Sentiment Analysis Project**](https://github.com/DingBangBang/Portfolio/tree/main/Portfolio5_comments_NLP): Solo dissertation project focusing on text analytics. - `NLP`
+*   [**Sentiment Analysis Project**](https://github.com/DingBangBang/Portfolio/tree/main/projects/05_Comments_NLP): Solo dissertation project focusing on text analytics. - `NLP`
+
 
 **🪙 Crypto & On-chain Analytics**
 *   [**Tokenomics Research**](https://github.com/DingBangBang/tokenomics-research): Data-driven modeling and on-chain economic analysis of crypto assets. - `Quant`
