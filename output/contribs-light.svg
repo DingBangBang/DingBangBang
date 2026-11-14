@@ -437,7 +437,10 @@
 <polygon points="592.01,254.93 603.28,259.04 592.01,263.14 580.73,259.04" fill="#30a14e"/>
 <polygon points="580.73,277.04 580.73,259.04 592.01,263.14 592.01,281.14" fill="#2a8d44"/>
 <polygon points="592.01,281.14 592.01,263.14 603.28,259.04 603.28,277.04" fill="#237739"/>
-<text x="697.25" y="14.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="34" font-weight="700" fill="#216e39">375</text>
+<polygon points="605.16,269.72 616.44,273.82 605.16,277.93 593.89,273.82" fill="#9be9a8"/>
+<polygon points="593.89,281.82 593.89,273.82 605.16,277.93 605.16,285.93" fill="#88cd93"/>
+<polygon points="605.16,285.93 605.16,277.93 616.44,273.82 616.44,281.82" fill="#72ac7c"/>
+<text x="697.25" y="14.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="34" font-weight="700" fill="#216e39">376</text>
 <text x="697.25" y="26.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="10" fill="#59636e" letter-spacing="0.8">TOTAL CONTRIBUTIONS</text>
 <rect x="-92.09" y="193.66" width="12" height="45.63" rx="1" fill="#40c463"/>
 <text x="-86.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#59636e">S</text>
@@ -451,7 +454,7 @@
 <text x="-22.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#59636e">T</text>
 <rect x="-12.09" y="200.51" width="12" height="38.79" rx="1" fill="#40c463"/>
 <text x="-6.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#59636e">F</text>
-<rect x="3.91" y="188.34" width="12" height="50.96" rx="1" fill="#40c463"/>
+<rect x="3.91" y="187.58" width="12" height="51.72" rx="1" fill="#40c463"/>
 <text x="9.91" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#59636e">S</text>
 <text x="-92.09" y="277.30" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" fill="#59636e" letter-spacing="0.3">Most active days</text>
 <text x="-92.09" y="293.30" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="9" fill="#59636e">Data pulled daily from GitHub.</text>
