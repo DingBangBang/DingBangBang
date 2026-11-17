@@ -109,7 +109,7 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 *   [**Tokenomics Research**](https://github.com/DingBangBang/tokenomics-research): Data-driven modeling and on-chain economic analysis of crypto assets. - `Quant`
 *   [💡**CEX Growth Engine**](https://github.com/DingBangBang/Portfolio/tree/main/projects/04_Customer_Analysis_BA): End-to-end funnel leakage, Markov attribution, and OKR forecasting (dbt + DuckDB + Streamlit). - `ML / DS`
 *   [**On-Chain Whale Monitoring**](https://github.com/DingBangBang/whale-alert-system): On-chain behavior monitoring and flow analytics. - `Data Engineering`
-*   [💡**On-Chain AML & Arbitrage Mining**](https://github.com/DingBangBang/Portfolio/tree/main/projects/06_Onchain_AML_Arbitrage): Neo4j rule engine for AML fund tracing plus AMM-optimal arbitrage sizing and hedged-cost checks. - `Graph / Quant`
+*   [💡**On-Chain AML & Arbitrage Mining**](https://github.com/DingBangBang/Portfolio/tree/main/projects/06_Onchain_AML_Arbitrage): 12-rule AML risk scoring on a Neo4j fund-flow graph, plus AMM-optimal arbitrage sizing with delta-neutral hedge cost checks. - `Graph / Quant`
 *   [**Crypto Churn Prediction**](https://github.com/DingBangBang/crypto_churn_prediction_project): User behavioral clustering and churn prediction. - `ML / DS`
 *   [**Exchange Market Share Intelligence**](https://github.com/DingBangBang/dune-dashboard): Real-time market share ETL pipeline. - `ETL`
 
