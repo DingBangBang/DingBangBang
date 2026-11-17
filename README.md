@@ -100,21 +100,21 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 ## 🚀 Quickview of my [Portfolio](https://dingbangbang.github.io/)
 
 **🤖 AI, LLM & NLP**
-*   [💡**Text-to-SQL Agent Framework**](https://github.com/DingBangBang/Text-to-SQL_agent_framework): LLM-powered agent for automated data retrieval. - `AI Agent`
+*   [💡**Text-to-SQL Agent Framework**](https://github.com/DingBangBang/Text-to-SQL_agent_framework)**: LLM-powered agent for automated data retrieval.** - `AI Agent`
 *   [**Opinion & Event Graph System**](https://github.com/DingBangBang/opinion-and-event-graph-system): Knowledge graph system for event-driven opinion mining and trend analysis. - `NLP / GenAI`
 *   [**Sentiment Analysis Project**](https://github.com/DingBangBang/Portfolio/tree/main/projects/05_Comments_NLP): Solo dissertation project focusing on text analytics. - `NLP`
 
 
 **🪙 Crypto & On-chain Analytics**
 *   [**Tokenomics Research**](https://github.com/DingBangBang/tokenomics-research): Data-driven modeling and on-chain economic analysis of crypto assets. - `Quant`
-*   [💡**CEX Growth Engine**](https://github.com/DingBangBang/Portfolio/tree/main/projects/04_Customer_Analysis_BA): End-to-end funnel leakage, Markov attribution, and OKR forecasting (dbt + DuckDB + Streamlit). - `ML / DS`
+*   [💡**CEX Growth Engine**](https://github.com/DingBangBang/Portfolio/tree/main/projects/04_Customer_Analysis_BA)**: End-to-end funnel leakage, Markov attribution, and OKR forecasting (dbt + DuckDB + Streamlit).** - `ML / DS`
 *   [**On-Chain Whale Monitoring**](https://github.com/DingBangBang/whale-alert-system): On-chain behavior monitoring and flow analytics. - `Data Engineering`
-*   [💡**On-Chain AML & Arbitrage Mining**](https://github.com/DingBangBang/Portfolio/tree/main/projects/06_Onchain_AML_Arbitrage): 12-rule AML risk scoring on a Neo4j fund-flow graph, plus AMM-optimal arbitrage sizing with delta-neutral hedge cost checks. - `Graph / Quant`
+*   [💡**On-Chain AML & Arbitrage Mining**](https://github.com/DingBangBang/Portfolio/tree/main/projects/06_Onchain_AML_Arbitrage)**: 12-rule AML risk scoring on a Neo4j fund-flow graph, plus AMM-optimal arbitrage sizing with delta-neutral hedge cost checks.** - `Graph / Quant`
 *   [**Crypto Churn Prediction**](https://github.com/DingBangBang/crypto_churn_prediction_project): User behavioral clustering and churn prediction. - `ML / DS`
 *   [**Exchange Market Share Intelligence**](https://github.com/DingBangBang/dune-dashboard): Real-time market share ETL pipeline. - `ETL`
 
 **📊 BI, Reporting & E-commerce**
-*   [💡**Competitive Attribution Engine**](https://github.com/DingBangBang/report_competitor_monitor): Automated market reporting system driven by BI & LLM. - `BI / LLM`
+*   [💡**Competitive Attribution Engine**](https://github.com/DingBangBang/report_competitor_monitor)**: Automated market reporting system driven by BI & LLM.** - `BI / LLM`
 *   [**E-commerce Sales Mining**](https://github.com/DingBangBang/Portfolio/tree/main/projects/01_Sales_EDA): Comprehensive mining of 18M+ sales records with actionable insights. - `Business Analysis`
 *   [**Key Accounts Dashboard**](https://github.com/DingBangBang/Portfolio/tree/main/projects/02_KA_Dashboard): Standalone pipeline and dashboard for VIP accounts. - `Visualization`
 *   [**Automated Periodic Reports**](https://github.com/DingBangBang/Portfolio/tree/main/projects/03_Periodic_Reports_Automation): Automated reporting via HTML, email, and Excel. - `Reporting`
