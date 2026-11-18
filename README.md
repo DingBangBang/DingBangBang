@@ -113,7 +113,7 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 *   [**Crypto Churn Prediction**](https://github.com/DingBangBang/crypto_churn_prediction_project): User behavioral clustering and churn prediction. - `ML / DS`
 *   [**Exchange Market Share Intelligence**](https://github.com/DingBangBang/dune-dashboard): Real-time market share ETL pipeline. - `ETL`
 
-**📊 BI, Reporting & E-commerce**
+**📊 BI, Reporting & Visualization**
 *   [💡**Competitive Attribution Engine**](https://github.com/DingBangBang/report_competitor_monitor)**: Automated market reporting system driven by BI & LLM.** - `BI / LLM`
 *   [**E-commerce Sales Mining**](https://github.com/DingBangBang/Portfolio/tree/main/projects/01_Sales_EDA): Comprehensive mining of 18M+ sales records with actionable insights. - `BA`
 *   [**Key Accounts Dashboard**](https://github.com/DingBangBang/Portfolio/tree/main/projects/02_KA_Dashboard): Standalone pipeline and dashboard for VIP accounts. - `VLZ`
