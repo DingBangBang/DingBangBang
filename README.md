@@ -70,7 +70,7 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 
 
 ## ❓ &nbsp;**I came into the data field for**
-- 🥇 Driven by a passion for uncovering **the how and why** through data, I deliver **actionable insights and data-driven decisions** to drive business growth. I thrive on navigating diverse datasets and communicating complex findings to cross-functional stakeholders.🥰
+- 🥇 Driven by a passion for uncovering **the how and why** through data, delivering **actionable insights and data-driven decisions and ultimately building scalable, reusable, transferable learning, prediction and autonomous decision-making systems** to drive business growth. I thrive on navigating diverse datasets and communicating complex findings to cross-functional stakeholders.🥰
 - 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causation of user behavior.
 - 🥉 Enjoy agentic workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>enthusiastic about AI in-depth application</sub>
 - 🙋‍♀️ A self-driven **problem solver** who thrives when working solo with data — autonomous by nature, **a lifelong learner** by choice.
