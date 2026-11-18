@@ -74,7 +74,7 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 - 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causation of user behavior.
 - 🥉 Enjoy agentic workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>enthusiastic about AI in-depth application</sub>
 - 🙋‍♀️ A self-driven **problem solver** who thrives when working solo with math — autonomous by nature, **a lifelong learner** by choice.
-- ⚠️Future PHD’s in Data Science candidate. The next 5-10 years will be an exploratory journey—balancing academic preparation with hands-on work.
+- ⚠️Future PhD Candidate in Data Science. The next 5-10 years will be an exploratory journey—balancing academic preparation with hands-on work.
 
 
 <!--
