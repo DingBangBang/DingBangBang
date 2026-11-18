@@ -49,7 +49,7 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 - **🧠 Knowledge Tree:** `Data Storytelling & Visualization` · `Growth Analytics Frameworks & Methodology` · `Behavioral Science` · `User Profiling & Clustering` · `Recommendation Systems` · `Quantitative Finance & Engineering` · `Tokenomics` · `Smart Contract Logic & On-chain Analytics` · `Data Infrastructure` · `Data Productization & Servitization`
 - **🎯 Domains:** `CEX/DEX`·`Finance`·`Online Retail`·`FMCG`
 - 🌍 **Fun Fact**: Living in the Digital Nomad lifestyle, fueled by top-tier self-motivation, exceptional time & energy management, and rapid learning agility.
-- 🚗 **Nuts point**: I :heart: :cat:s, travel, X-sports⛷️🏄‍♀️🤿🏇🪂⛵🧗‍♀️🏍️🏎️🏕️, and ponder how to build a life well-lived, rather than just a career mindlessly tracked.I think the focus required for deep technology and models and the adrenaline of solo round-the-world road trips & X-sports are two sides of the same coin.<sub>MBTI-INTP</sub>
+- 🚗 **Nuts point**: I :heart: :cat:s, travel, X-sports⛷️🏄‍♀️🤿🏇🪂⛵🧗‍♀️🏍️🏎️🏕️, and ponder how to build a life well-lived, rather than just a career mindlessly tracked.I think the focus required for deep technology and models and the adrenaline of solo round-the-world road trips & X-sports are two sides of the same coin. <sub>MBTI-INTP</sub>
 
 
 
@@ -72,7 +72,7 @@ Yeah I do love coding  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3N
 ## ❓ &nbsp;**I came into the data field for**
 - 🥇 Driven by a passion for uncovering **the how and why** through data, delivering **actionable insights and data-driven decisions and ultimately building scalable, reusable, transferable learning, prediction and autonomous decision-making systems** to drive business growth. I thrive on navigating diverse datasets & models and communicating complex findings to cross-functional stakeholders.🥰
 - 🥈 Love diving into **user psychology** like a PM, which is a fascinating process of exploring root causation of user behavior.
-- 🥉 Enjoy agentic workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>enthusiastic about AI in-depth application</sub>
+- 🥉 Enjoy agentic workflows, immersive coding, structured thinking, and pursuing **cost-effectiveness**. <sub>Enthusiastic about AI in-depth application</sub>
 - 🙋‍♀️ A self-driven **problem solver** who thrives when working solo with math — autonomous by nature, **a lifelong learner** by choice.
 - ⚠️Future PhD Candidate in Data Science. The next 5-10 years will be an exploratory journey—balancing academic preparation with hands-on work.
 
